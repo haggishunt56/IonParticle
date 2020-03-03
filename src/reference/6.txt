@@ -1,0 +1,7 @@
+Attacker particles<br>
+<br>
+The attacker is a hyperactive particle which attacks the squares around it every time it moves. If you get hit by its attacks, it is game over. Other NPCs are not affected by its attacks. An attacker particle will be destroyed if it touches radiation or another particle, however it will manage to get one final attack in before it dies, so don't get too close!<br>
+<br>
+Threat level: High<br>
+<br>
+Lowest difficulty: Expert

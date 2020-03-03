@@ -1,0 +1,9 @@
+Standard Particle<br>
+<br>
+This is the first particle you are likely to encounter. It is the simplest of them all, moving one square towards you every time you move or attack. It can move up, down, left, right and diagonally.<br>
+<br>
+These enemies are good for manipulating into the paths of other enemies to form radioactive squares.<br>
+<br>
+Threat level: Lowest<br>
+<br>
+Lowest difficulty: Beginner

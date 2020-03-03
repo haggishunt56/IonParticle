@@ -1,0 +1,11 @@
+You control a positively-charged particle floating in space. You must excape from the negative ions all around you which will be attracted to you.<br>
+<br>
+Be careful though as each time you move, the negative particles will move towards you. If they land on the same square as you, it is game over!<br>
+<br>
+Each time you reset the game, the counters will be randomly distributed across the board.<br>
+<br>
+The tabs above give information on the different types of enemy you are likely to encounter.<br>
+<br>
+Good luck!<br>
+<br>
+Please report any issues or bugs to Douglas Pollock - douglas.a.pollock@gmail.com

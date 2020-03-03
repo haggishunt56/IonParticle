@@ -1,0 +1,7 @@
+To move, click the square you wish to move to. Note that you can only move one square at a time.<br>
+<br>
+As you saw earlier, when you are caught by an enemy particle, it is game over. However if a negative particle lands on the same square as another, they annihilate and fill the square with radiation. If you, or any enemies, entering this square they will die too.<br>
+<br>
+You can use your <b>teleport ability</b> to quantum-tunnel to a random location on the board. When you do this, the negative particles will not move towards you. You only have a limited number of teleports per game - the counter below the teleport button tells you how many are left!<br>
+<br>
+You can use your <b>attack ability</b> to absorb any particles around you. When you do this, any other negative particles on the board will continue to move towards you. You also have a limited number of attacks, so use them wisely. Another counter shows you how many attacks you have left.<br>

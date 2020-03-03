@@ -1,0 +1,7 @@
+ Douglas Pollock 2020, all rights reserved<br>
+<br>
+Particle game created for 1st year Software Development course at Glasgow Caledonian university.<br>
+<br>
+No part of this code may be replicated without express written permission. Contact whatevermaan@hotmail.com.<br>
+<br>
+Soundtrack is Battle of the Arps by Eduard Popescu.

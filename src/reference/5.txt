@@ -1,0 +1,7 @@
+Teleport Particle<br>
+<br>
+The teleport particle needs to be close at all times. It will always teleport to a random location within 4 squares of you in any direction. When it is within range, it will move one square at a time in all directions but their teleport ability makes them hard to escape.<br>
+<br>
+Threat level: Moderate<br>
+<br>
+Lowest difficulty: Advanced

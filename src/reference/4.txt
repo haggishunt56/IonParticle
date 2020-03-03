@@ -1,0 +1,9 @@
+Knight Particle<br>
+<br>
+The knight particle is a tricky particle to avoid. Like a knight in a game of chess, the knight particle moves in an 'L' shape and can jump over other particles and radiation.<br>
+<br>
+These particles move surprisingly quickly, but can sometimes be forced off the board if you stand next to the edge.<br>
+<br>
+Threat Level: Moderate<br>
+<br>
+Lowest difficulty: Intermediate

@@ -1,0 +1,7 @@
+Fast Particle<br>
+<br>
+The fast particle is simple, like the standard particle, however it can move much faster making it more of a threat for the player. The fast particle can move one square diagonally, or two squares up, down, left or right each time the player moves.<br>
+<br>
+Threat level: Low<br>
+<br>
+Lowest difficulty: Novice
