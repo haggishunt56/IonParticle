@@ -6,6 +6,9 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
+ * ~~~~ TEST LINE FOR GIT ~~~~
+ * ~~~~ GIT TEST LINE 2 ~~~~
+ *
  * The particle game is a strategy game where the player must escape enemy
  * particles which chase them around the board. It uses a simple grid layout
  * to display the game layout and counters. The Particle20 class extends JFrame
